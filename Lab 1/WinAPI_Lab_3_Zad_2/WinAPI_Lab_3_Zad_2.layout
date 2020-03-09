@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="44">
+			<Cursor Line="52" Column="3"/>
+		</File>
+		<File Name="program.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="10" Column="3"/>
+		</File>
+	</Files>
+</Layout>
