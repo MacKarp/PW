@@ -1,10 +1,10 @@
 Zadania wykonywane na laboratorium z programowania wizualnego.
 
-Karpiñski Maciej
+KarpiÅ„ski Maciej
 
 Nr. albumu: 39446
 
-Lista zadañ:
+Lista zadaÅ„:
 
 Lab 1/WinAPI_Lab_3_Zad_1
 
