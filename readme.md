@@ -17,6 +17,5 @@ Lab 2/BMR
 Lab 2/Pesel
 
 Lab 3/Kostka do gry
-Lab 3/Panel logowania
 
-Kurs Unity3D/Survival
+Lab 3/Panel logowania
